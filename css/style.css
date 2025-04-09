@@ -1,0 +1,17 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #f8f9fa;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;     /* Ficar em coluna (uma abaixo da outra) */
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
